@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-1st try
+title: Try something new
 ---
