@@ -1,3 +1,3 @@
 ---
-title: Try something new
+title: Try something new new
 ---
